@@ -1,4 +1,4 @@
-# movies_recommendation_system
+# movies_recommendation_system_using_collaborative_filtering
 This is a movies recommendation system ,made by using concepts of EDA and various python libraries,
 data of about 10000 movies have been taken from movieslens website
 use of python libraries : 
